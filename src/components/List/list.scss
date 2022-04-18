@@ -6,7 +6,7 @@
     color: white;
     font-size: 20px;
     font-weight: 500;
-    margin-left: 30px;
+    margin-left: 50px;
   }
 
   .wrapper {
@@ -31,10 +31,11 @@
       }
     }
     .container {
-      margin-left: 30px;
+      margin-left: 50px;
       display: flex;
       width: max-content;
       margin-top: 10px;
+      transition: all 1s ease;
     }
   }
 }
